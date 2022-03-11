@@ -1,4 +1,4 @@
 # Props in Reactjs 
-<p>Props is an object</p>
+<h1>Props is an object</h1>
 
 
